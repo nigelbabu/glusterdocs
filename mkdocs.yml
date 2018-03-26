@@ -12,15 +12,11 @@ pages:
   - Quick Start Guide: Quick-Start-Guide/Quickstart.md
   - Architecture: Quick-Start-Guide/Architecture.md
 - Install Guide:
-  - Overview: Install-Guide/Overview.md
-  - Common Criteria: Install-Guide/Common_criteria.md
-  - Setting up in virtual machines: Install-Guide/Setup_virt.md
-  - Setting up on physical servers: Install-Guide/Setup_Bare_metal.md
-  - Deploying in AWS: Install-Guide/Setup_aws.md
-  - Install: Install-Guide/Install.md
-  - Compiling RPMS: Install-Guide/compiling-rpms.md
-  - Community Packages: Install-Guide/Community_Packages.md
-  - Configure: Install-Guide/Configure.md
+  - Overview: install-guide/overview.md
+  - Pre-Requisites: install-guide/prerequisites.md
+  - Server Setup: install-guide/server-setup.md
+  - Client Setup: install-guide/client-setup.md
+  - Community Packages Information: install-guide/community-packages.md
 - Administration Guide:
   - Overview: Administrator Guide/overview.md
   - Index: Administrator Guide/index.md

@@ -15,7 +15,7 @@ Install Guide.
 
 -  [Quick Start Guide](./Quick-Start-Guide/Quickstart.md) - Start here if you are new to Gluster!
 
--  [Installation Guides](./Install-Guide/Overview.md) describes the prerequisites and provides step-by-instructions to install GlusterFS on various operating systems.
+-  [Installation Guides](./install-guide/overview.md) describes the prerequisites and provides step-by-instructions to install GlusterFS on various operating systems.
 
 -  [Presentations](./presentations/index.md) related to Gluster from Conferences and summits.
 
