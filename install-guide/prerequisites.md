@@ -1,17 +1,18 @@
 # Pre-requisites
 
 Before installing Gluster server, each node in the cluster needs to have
-specific setup done so that it can work effectively as a Gluster node.
+specific setup done so that it can work effectively as a Gluster node. These
+instructions use CentOS 7 as the base
 
 ## Minimum machine requirements
+
+## Setup NTP
 
 ## Setup DNS
 
 ## Setup filesystem
 
 ## Setup firewall
-
-## Setup NTP
 
 ## Setup SELinux
 On CentOS and RHEL, SELinux is set to Enforcing by default. If you have

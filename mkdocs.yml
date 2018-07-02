@@ -12,7 +12,7 @@ pages:
   - Quick Start Guide: Quick-Start-Guide/Quickstart.md
   - Architecture: Quick-Start-Guide/Architecture.md
 - Install Guide:
-  - Overview: install-guide/overview.md
+  - Overview: install-guide/index.md
   - Pre-Requisites: install-guide/prerequisites.md
   - Server Setup: install-guide/server-setup.md
   - Client Setup: install-guide/client-setup.md
